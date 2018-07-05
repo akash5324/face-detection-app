@@ -1,1 +1,1 @@
-![alt text](public/output.png "output file")
+![alt text](screenshots/output.png "output file")
