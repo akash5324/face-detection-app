@@ -1,0 +1,14 @@
+
+.form {
+  width: 700px;
+  background: linear-gradient(360deg,#00537E 10%,#3AA17E 360%);
+  background-size:40px 60px;
+  box-shadow: -5px -5px 30px 5px red, 5px 5px 30px 5px blue;
+  border:5px solid;
+}
+
+.button{
+	background: linear-gradient(360deg, #1C1C1C 10%, #494949 360%);
+}
+
+
